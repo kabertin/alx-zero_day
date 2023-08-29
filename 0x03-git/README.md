@@ -1,1 +1,1 @@
-All about Git, means direcoties and files
+All about Git, means directories and files
